@@ -1,4 +1,10 @@
-pascal:{{+':[x,0]}\[x;1]}
+pascal:{{+':[x,0]}\[x-1;1]}
+
+
+pascal:{[rows]{+':[x,0]}\[rows-1;1]}
+
+
+pascal:{[rows]{[seed]+':[seed,0]}\[rows-1;1]}
 
 pascal 5 // prints pascals triangle with 5 rows
 
