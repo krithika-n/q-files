@@ -2,7 +2,7 @@
 
   
 
-This repository has some basic q scripts I wrote while trying to learn Q.
+This repository has some basic q scripts I wrote while trying to learn Q. The ShallowDive directory documents my attempts to solve the Lisp/Perl/Q - [99 problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html) set. 
 
   
 
